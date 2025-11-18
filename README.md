@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Sadid 👋
 
-<!--
-**litch07/litch07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at **United International University (UIU)**, Bangladesh.  
+I work mainly with **C, C++ and Java**, focusing on **projects**, **core CS fundamentals**, and **problem solving**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I do
+
+- 💻 Build course-based and personal **projects**
+- 📚 Organize **CS undergrad resources** (labs, notes, study guidance)
+- 🧩 Practice **competitive programming** (Codeforces, LeetCode)
+
+---
+
+### 📂 Main Repositories
+
+- 🛠 **Projects**  
+  `projects` – course & personal software projects  
+  👉 <https://github.com/litch07/projects>
+
+- 🎓 **CS Undergrad Resources**  
+  `cs-undergrad-resources` – organized notes, lab materials, and brief summaries for core CS courses  
+  👉 <https://github.com/litch07/cs-undergrad-resources>
+
+- 🧠 **Competitive Programming**  
+  `competitive-programming` – selected Codeforces / LeetCode solutions, templates, and ideas  
+  👉 <https://github.com/litch07/competitive-programming>
+
+---
+
+### 🧩 Problem Solving
+
+- 💠 **Codeforces:** [litch0102](https://codeforces.com/profile/litch0102)  
+- 🟨 **LeetCode:** (link coming soon)
+
+I don’t upload every submission—only selected, **clean and well-explained** solutions.
+
+---
+
+### 📫 Contact
+
+- 🔗 **LinkedIn:** [linkedin.com/in/sadidahmed](https://www.linkedin.com/in/sadidahmed)  
+- ✉️ **Email:** ssadidahmed01@gmail.com  
+- 🐙 **GitHub:** [github.com/litch07](https://github.com/litch07)
