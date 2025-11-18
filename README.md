@@ -31,7 +31,7 @@ I work mainly with **C, C++ and Java**, focusing on **projects**, **core CS fund
 
 ### 🧩 Problem Solving
 
-- 💠 **Codeforces:** [litch0102](https://codeforces.com/profile/litch0102)  
+- 💠 **Codeforces:** [litch07](https://codeforces.com/profile/litch07)  
 - 🟨 **LeetCode:** [litch07](https://leetcode.com/litch07)
 
 I don’t upload every submission—only selected, **clean and well-explained** solutions.
