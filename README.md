@@ -1,4 +1,4 @@
-# Hi, I'm Sadid 👋
+# Hi, I'm Sadid Ahmed👋
 
 I'm a Computer Science undergraduate at **United International University (UIU)**, Bangladesh.  
 I work mainly with **C, C++ and Java**, focusing on **projects**, **core CS fundamentals**, and **problem solving**.
@@ -32,7 +32,7 @@ I work mainly with **C, C++ and Java**, focusing on **projects**, **core CS fund
 ### 🧩 Problem Solving
 
 - 💠 **Codeforces:** [litch0102](https://codeforces.com/profile/litch0102)  
-- 🟨 **LeetCode:** (link coming soon)
+- 🟨 **LeetCode:** [litch07](https://leetcode.com/litch07)
 
 I don’t upload every submission—only selected, **clean and well-explained** solutions.
 
