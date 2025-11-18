@@ -1,4 +1,4 @@
-# Hi, I'm Sadid Ahmed👋
+# Hi, I'm Sadid👋
 
 I'm a Computer Science undergraduate at **United International University (UIU)**, Bangladesh.  
 I work mainly with **C, C++ and Java**, focusing on **projects**, **core CS fundamentals**, and **problem solving**.
