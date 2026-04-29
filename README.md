@@ -72,7 +72,7 @@ Currently focused on scalable system design, API architecture, and database opti
 
 ## 🚀 Featured Projects
 
-### 🎓 [EduAuth Registry](https://github.com/litch07/eduauth-registry)
+### 🎓 [EduAuth Registry](https://github.com/litch07/eduauth-registry-dbms)
 **Digital Certificate Issuance & Verification System for Educational Institutions**
 
 A comprehensive full-stack platform for managing educational credentials with multi-tenant architecture and secure verification workflows.
