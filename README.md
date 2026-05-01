@@ -72,28 +72,28 @@ Currently focused on scalable system design, API architecture, and database opti
 
 ## 🚀 Featured Projects
 
-### 🎓 [EduAuth Registry](https://github.com/litch07/eduauth-registry-dbms)
+### 🎓 [EduAuth Registry](https://github.com/litch07/eduauth-registry)
 **Digital Certificate Issuance & Verification System for Educational Institutions**
 
-A comprehensive full-stack platform for managing educational credentials with multi-tenant architecture and secure verification workflows.
+A full-stack platform for managing academic credentials with secure authentication, role-based access, and verification workflows.
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </p>
 
 **Highlights:**
 - 🔐 Multi-role authentication system (Student, University, Verifier, Admin)
-- 🎫 Transaction-safe serial generation with tamper-proof certificate IDs
-- ✅ Two-factor verification for privacy-preserving credential checks
-- 📧 Email verification with 6-digit OTP and admin approval workflow
-- 🔒 Privacy controls: toggle certificate sharing and manage access requests
-- 📊 12 normalized tables (3NF) with 6 optimized database views
-- 🌓 Professional UI with dark mode support
+- 🔑 JWT-based authentication with protected routes
+- 📧 Email verification with OTP and admin approval workflow
+- 🎓 Certificate issuance and secure verification system
+- 🔍 Role-based dashboards for different user types
+- 🗄️ Structured MySQL database with normalized schema
+- 🛡️ Middleware-based access control and authorization
+- 🌗 Clean UI with authentication flow and protected routing
 
 ---
 
